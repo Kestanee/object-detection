@@ -1,0 +1,9 @@
+path: /content/gdrive/My Drive/Yolov8-Segmentation/data
+train: images/train
+val: images/val
+
+
+nc: 3
+names: ['giraffe', 'kangaroo', 'penguin']
+
+
